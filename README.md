@@ -1,6 +1,6 @@
 # acing-the-technical-interview
-Workshop: Acing the Technical Interview with Google
-3/7 6-8 pm in the Lean Room
+Hands on Workshop: Acing the Technical Interview with Google
+3/7 6-8 pm in Leslie E-lab's Lean Room
 
 #### Beginner Problems:
 - Fizz Buzz
