@@ -35,8 +35,6 @@ public static void main(String[] args){
 			System.out.println(!test.isEmpty() ? test : i);
 		}
 	}
-Even smaller Java solution:
-```
-for(int i = 0; i < n; i++, System.out.println(i % 3 == 0 || i % 5 == 0 ? ((i % 3) == 0 ? "fizz" : "") + ((i % 5) == 0 ? "buzz" : "")  : i));
+}
 ```
 Runtime: O(N)
