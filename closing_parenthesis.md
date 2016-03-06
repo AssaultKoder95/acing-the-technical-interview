@@ -3,7 +3,7 @@ You are given two parameters. The first parameter is a string, `string`. `string
 ### Example
 ```
 method_name("()", 0) --> 1
-method_name("((()()))", 4) --> 5
+method_name("((()()))", 1) --> 6
 method_name("(a()(b((j))())3)", 2) --> 3
 ```
 
