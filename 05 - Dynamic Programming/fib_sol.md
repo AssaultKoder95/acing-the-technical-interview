@@ -1,4 +1,4 @@
-# Fibonacci Sequence Soliution
+# Fibonacci Sequence Solution
 
 #### Recursive
 
