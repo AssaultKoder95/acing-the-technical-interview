@@ -13,9 +13,10 @@ Workshop: Acing the Technical Interview with Google
 
 #### Trees and Graphs:
 - Minimal Binary Tree
+- Paint Fill
 
 #### Bits Manipulation:
 - Add Two Numbers
 
 #### Dynamic Programming
-- Paint Fill
+- Fibonacci Sequence
