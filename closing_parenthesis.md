@@ -4,13 +4,4 @@ You are given two parameters. The first parameter is a string, `string`. `string
 ```
 method_name("()", 0) --> 1
 method_name("((()()))", 1) --> 6
-method_name("(a()(b((j))())3)", 2) --> 3
-```
-
-## Challenge
-Validate that the index passed has a matching closed parenthesis. If it does not have a matching closed parenthesis, return -1.
-### Example
-```
-method_name("(()", 0) --> -1
-method_name("a(d((()k))", 3) --> -1
 ```
