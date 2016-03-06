@@ -1,7 +1,8 @@
 # acing-the-technical-interview
-Acing the Technical Interview with Google 3/7 6-8 pm
+Workshop: Acing the Technical Interview with Google
+3/7 6-8 pm in the Lean Room
 
-#### Pre-Data Structures:
+#### Beginner Problems:
 - Fizz Buzz
 - Closing Parenthesis
 
