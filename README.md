@@ -14,8 +14,8 @@ Workshop: Acing the Technical Interview with Google
 #### Trees:
 - [Minimal Binary Tree](https://github.com/nyuwinc/acing-the-technical-interview/blob/master/Trees/minimal_binary_tree_height.md)
 
-### Bits:
+#### Bits Manipulation:
 - [Add Two Numbers](https://github.com/nyuwinc/acing-the-technical-interview/tree/master/Bit%20Manipulation)
 
-### Dynamic Programming
+#### Dynamic Programming
 - [Paint Fill](https://github.com/nyuwinc/acing-the-technical-interview/blob/master/Dynamic%20Programming/paint_fill.md)
