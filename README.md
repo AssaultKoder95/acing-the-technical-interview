@@ -1,15 +1,22 @@
 # acing-the-technical-interview
-Acing the Technical Interview with Google 3/7 6-8 pm
+Hands on Workshop: Acing the Technical Interview with Google
+3/7 6-8 pm in Leslie E-lab's Lean Room
 
-#### Pre-Data Structures:
+#### Beginner Problems:
 - Fizz Buzz
-- Closing Parenthesis
 
-#### Current Data Structures:
+####  String and Arrays:
 - Closing Parenthesis
 - String Permutations
+- Is Permutation
+- Sum in a List
 
-#### Post Data Structures:
+#### Trees and Graphs:
 - Minimal Binary Tree
-- Add Two Numbers
 - Paint Fill
+
+#### Bits Manipulation:
+- Add Two Numbers
+
+#### Dynamic Programming
+- Fibonacci Sequence
